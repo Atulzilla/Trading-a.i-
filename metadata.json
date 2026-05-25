@@ -1,0 +1,6 @@
+{
+  "name": "AI Trading Agent Orchestrator",
+  "description": "A high-fidelity algorithmic trading platform that models multi-agent orchestration (Quant, Fundamental, and Risk Manager sub-agents) driven by server-side Gemini intelligence and a live simulated execution matching engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
